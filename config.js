@@ -4,7 +4,7 @@
 // (Skills aktenvermerk-kmw und kmw-vorlage-brief).
 export const CONFIG = {
   // OAuth-Client-ID aus der Google Cloud Console (Typ "Webanwendung"), siehe README.md
-  googleClientId: '',
+  googleClientId: '42851977203-52dvft0q4fll9clugi1idce7c2mi1qtd.apps.googleusercontent.com',
   // Ordner in "Meine Ablage", in den die Dokumente gespeichert werden
   ordner: 'Diktate',
   // Absender (pro Gerät in den Einstellungen änderbar)

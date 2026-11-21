@@ -1,5 +1,5 @@
 // Offline-Fähigkeit: App-Dateien zwischenspeichern. Bei Änderungen VERSION erhöhen.
-const VERSION = 'diktat-v4';
+const VERSION = 'diktat-v5';
 const FILES = ['./', 'index.html', 'app.css', 'app.js', 'textproc.js', 'doc.js', 'speech.js', 'drive.js', 'ai.js', 'config.js', 'odt.js', 'ablage.js', 'vendor/fflate-0.8.2.js',
   'manifest.webmanifest', 'icon.svg', 'icon-192.png', 'icon-512.png'];
 
